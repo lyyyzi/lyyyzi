@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Yicheng Lin
+
+- 🔭 I’m currently working on Developing front-end web applications using Vue.js, JavaScript, and RESTful APIs
+- 🌱 I’m currently learning TypeScript for scalable and maintainable web applications
+- 👯 I’m looking to collaborate on Open-source projects in web development, AI, and etc...
+
 
 <!--
 **lyyyzi/lyyyzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

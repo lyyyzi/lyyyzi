@@ -1,8 +1,10 @@
-## Hi there 👋 I'm Yicheng Lin
+## Hi there 👋 
 
-- 🔭 I’m currently working on Developing front-end web applications using Vue.js, JavaScript, and RESTful APIs
-- 🌱 I’m currently learning TypeScript for scalable and maintainable web applications
-- 👯 I’m looking to collaborate on Open-source projects in web development, AI, and etc...
+My name is Yicheng Lin, and I am intersted in all things Web & data science!
+
+- 🔭 I’m currently working on developing front-end web applications using Vue.js, JavaScript, and RESTful APIs.
+- 🌱 I’m currently learning typeScript for scalable and maintainable web applications.
+- 👯 I’m looking to collaborate on open-source projects in web development, AI, and etc...
 
 
 <!--

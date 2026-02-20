@@ -1,22 +1,12 @@
-## Hi there 👋 
+# Hi, I'm Yicheng Lin 👋
 
-My name is Yicheng Lin, and I am intersted in all things Web & data science!
+I'm a Master's student in Computer Science at Simon Fraser University, specializing in Machine Learning, Computer Vision, and Distributed Systems.
 
-- 🔭 I worked on developing front-end web applications using Vue.js, JavaScript, and RESTful APIs.
-- 👯 I’m looking to collaborate on open-source projects in web development, AI, and etc...
+I enjoy building intelligent systems that combine AI models with real-world applications, from motion generation to object detection and full-stack software platforms.
 
-
-<!--
-**lyyyzi/lyyyzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Interests
+- Machine Learning & Deep Learning
+- Computer Vision
+- Generative Models (Diffusion, GANs)
+- AI-powered Applications
+- Distributed and Cloud Systems

@@ -8,5 +8,5 @@ I enjoy building intelligent systems that combine AI models with real-world appl
 - Machine Learning & Deep Learning
 - Computer Vision
 - Generative Models (Diffusion, GANs)
-- AI-powered Applications
+- LLM-powered Knowledge Assistant
 - Distributed and Cloud Systems
